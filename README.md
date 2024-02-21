@@ -5,3 +5,4 @@ Work done for CS210 Class Encore during Winter Term 2024. Includes demos, practi
 - Session 1 & 2: Accumulators and Higher Order Functions
 - Session 3: Midterm Review Jeopardy + Lists & Stacks
 - Session 4: List Comprehensions + Map function
+- Session 5: Dictionaries and File IO
